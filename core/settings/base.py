@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     'apps.profiles',
     'apps.ratings',
     'apps.users',
+    'apps.enquiries',
+    'apps.properties',
 ]
 
 SITE_ID = 1
